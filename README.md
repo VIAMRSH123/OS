@@ -33,7 +33,9 @@ Lab 6 – Memory Management
 • Worst Fit
 
 Lab 7 – Page Replacement  
-• Optimal Page Replacement
+• Optimal Page Replacement  
+• FIFO (First-In, First-Out)  
+• LRU (Least Recently Used)
 
 Language Used
 -------------
