@@ -24,7 +24,7 @@ unchecked item**, does it properly, verifies it, and commits.
 
 ### A. Documentation (the main value for a recruiter)
 
-- [ ] **A1 — Fix the top-level README.** It claims "the output of each program is also attached ... as
+- [x] **A1 — Fix the top-level README.** It claims "the output of each program is also attached ... as
       comments at the end of the code". Verified false: no `.c` file contains output comments;
       outputs are the `.png` screenshots next to each program (`Lab 4/Dining Philosopher` has none).
       Rewrite to say that, add a "how to build" section (`gcc file.c -o file`; `-lpthread` for Lab 4
@@ -63,3 +63,4 @@ unchecked item**, does it properly, verifies it, and commits.
 ## Log
 
 2026-10-22 - audit - docs: add COMMIT_BACKLOG.md audit of OS lab repo
+2026-11-17 - A1 - docs: correct README output claim and add build instructions and lab index
